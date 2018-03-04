@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "928748903632",
+    "firebase_url": "https://mojo-upgrade.firebaseio.com",
+    "project_id": "mojo-upgrade",
+    "storage_bucket": "mojo-upgrade.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928748903632:android:eea79c393cd8a1e0",
+        "android_client_info": {
+          "package_name": "de.coy.mojoupgrade"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928748903632-b25t0dehjph28hv3hlcfis84lh9vd3ae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwRERcmamFI6g69fMtWoIwDucV0HK4lrU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

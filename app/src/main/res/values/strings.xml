@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mojo Upgrade</string>
+    <string name="session_start_new_session_button_title">New Session</string>
+    <string name="session_start_join_session_button_title">Join session</string>
+    <string name="gender_name_male">Männlich</string>
+    <string name="gender_name_female">Weiblich</string>
+    <string name="user_name">Name</string>
+    <string name="setup_user_button_title">Los geht\'s</string>
+    <string name="age_title">Alter</string>
+</resources>
