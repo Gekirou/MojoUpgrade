@@ -1,0 +1,27 @@
+package mojoupgrade.coy.de.mojoupgrade.model
+
+val analQuestions = listOf<Question>(
+        Question("todo")
+)
+
+//
+//<string name="section_anal_title">Anal Play</string>
+//
+//<string name="anal_0">anally fist partner</string> Cross-Reference
+//<string name="anal_1">be anally fisted by partner</string> Cross-Reference
+//
+//<string name="anal_2">anally finger partner</string> Cross-Reference
+//<string name="anal_3">be fingered anally by partner</string> Cross-Reference
+//
+//<string name="anal_4">anally penetrate partner</string> Cross-Reference / MF (M only) / MM
+//<string name="anal_41">getting anally penetrated by partner</string> Cross-Reference / MF (F only) / MM
+//
+//<string name="anal_5">double penetrate partner with me and a toy</string> Cross-Reference / MF (M only)
+//<string name="anal_51">getting double penetrated by partner and a toy</string> Cross-Reference / MF (F only)
+//
+//<string name="anal_6">getting pegged by partner with a strap-on</string> Cross-Reference / MF (M only) / FF
+//<string name="anal_61">peg partner with a strap-on</string> Cross-Reference / MF (M only) / FF
+//
+//
+//<string name="anal_7">lick partner\'s anus (analingus)</string> Cross-Reference
+//<string name="anal_8">be licked anally by partner</string> Cross-Reference

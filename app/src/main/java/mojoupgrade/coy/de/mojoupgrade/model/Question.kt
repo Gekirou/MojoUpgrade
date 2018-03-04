@@ -2,6 +2,10 @@ package mojoupgrade.coy.de.mojoupgrade.model
 
 object QuestionManager {
 
+    val sections: Array<Section>
+        get() {
+            return Section.values()
+        }
 }
 
 class Question(
@@ -19,13 +23,13 @@ enum class Answer {
     NO
 }
 
-enum class Section {
-    BASICS,
-    BDSM,
-    ANAL,
-    TOYS,
-    GROUP,
-    OTHER
+enum class Section(val questions: List<Question>) {
+    BASICS(basicQuestions),
+    BDSM(bdsmQuestions),
+    ANAL(analQuestions),
+    TOYS(toysQuestions),
+    GROUP(groupQuestions),
+    OTHER(otherQuestions)
 }
 
 enum class Gender {
